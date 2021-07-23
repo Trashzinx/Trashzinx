@@ -2,9 +2,9 @@
 
 # Hello :) 
 
-> - #### Me Chamo Camilla
+> - #### *Me Chamo Camilla*
 
-> - #### Tenho 17 Anos e Estou Ingressando No Mundo Da Programação...
+> - #### *Tenho 17 Anos e Estou Ingressando No Mundo Da Programação...*
 
 ### Redes Sociais
 
