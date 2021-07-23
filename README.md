@@ -7,7 +7,7 @@
 > - _Comecei a Programar Recentemente,Caso Tenha Alguma Dúvida ou Queira Fazer Uma Crítica Entrem em Contato Comigo._
 
 ### ➞ _Redes Sociais_
-
+_____
 [__*WhatsApp*__](https://wa.me/556299885573)
 
 [__*Twitter*__](https://twitter.com/D3Athena?s=08)
@@ -18,4 +18,5 @@
 
 > - __Shell Script__
 
-![](https://komarev.com/ghpvc/?username=AthenaD3V&color=blueviolet) 
+![Badge](https://img.shields.io/badge/-I%20%E2%9D%A4%EF%B8%8F%20%23!%2Fbin%2Fbash-blueviolet)
+
