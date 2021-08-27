@@ -35,8 +35,8 @@
        🔍 | GitHub Analytics
     </h3>
 <div align="center">
-    <img width=351 src="https://github-readme-stats.vercel.app/api?username=AthenaD3V&show_icons=true&theme=tokyonight" alt="AthenaD3V" style="min-width=50%">
-     <img width=421 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthenaD3V&theme=tokyonight&layout=compact" alt="AthenaD3V" style="max-width=70%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AthenaD3V&show_icons=true&theme=tokyonight" alt="AthenaD3V" style="min-width=50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AthenaD3V&theme=tokyonight&layout=compact" alt="AthenaD3V" style="max-width=70%"/>
 </div>
 <hr>
 <div align="center">
