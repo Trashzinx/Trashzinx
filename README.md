@@ -10,7 +10,6 @@
 <h1>💁‍♀️ | Sobre mim...</h1>
 <blockquote>
   <ul>
-    <li> Me chamo Camilla... </li>
     <li> Tenho 18 Anos... </li>
     <li> Atualmente tenho 1,68 (Sim sou rebaixada)... </li>
     <li> Conheço Programação desde do ano passado... </li>
