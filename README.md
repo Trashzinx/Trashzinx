@@ -3,7 +3,6 @@
 <h1>🤨 | Sobre mim...</h1>
 <blockquote>
   <ul>
-    <li> Tenho 18 Anos... </li>
     <li> Conheço Programação desde do ano passado... </li>
     <li> Porém comecei a programar esse ano, eu tinha tentado ano passado mas eu tinha <a href="https://tdah.org.br/sobre-tdah/o-que-e-tdah">TDAH</a>(Já até tomei remédio pra isso ksks)... </li>
   </ul>
